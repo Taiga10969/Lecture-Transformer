@@ -11,7 +11,7 @@ MPRG新B4向け春の勉強会用資料<br>
 自分は，Transformerをコードを見て理解した人です！<br>
 Pythonの理解もまだまだ...研究ではプログラムを改変したりしないと行けいない...<br>
 だからこそ！プログラムを写経しながらPythonも理解しつつ，Transformerもコードレベルで理解してみてはいかが？
-- copy_code_Transformer_01_Embedder.ipynb<br>
+- **copy_code_Transformer_01_Embedder.ipynb**<br>
   Transformerに入力したトークンID列を埋め込みベクトルに変換する機構
-- copy_code_Transformer_02_PositionalEncoder.ipynb<br>
+- **copy_code_Transformer_02_PositionalEncoder.ipynb**<br>
   各トークンをあらわす埋め込みベクトルに対して位置情報$PE$を付与する機構
