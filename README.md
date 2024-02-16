@@ -7,8 +7,9 @@ MPRG新B4向け春の勉強会用資料<br>
 今は大Transformer時代！<br>
 研究でもTransformer系のモデルを使う人が多いことから主にTransformerについて解説します．<br>
 <br>
+<!-- 
 **Transformerのモデル構造**
-[transformer_outline.pdf](https://github.com/Taiga10969/Lecture-Transformer/files/14305981/transformer_outline.pdf)
+-->
 
 
 ## 写経しながら理解するTransformer (copy-code_Transformer)
