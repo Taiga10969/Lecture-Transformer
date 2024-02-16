@@ -13,7 +13,7 @@ MPRG新B4向け春の勉強会用資料<br>
 
 
 ## 写経しながら理解するTransformer (copy-code_Transformer)
-自分は，Transformerをコードを見て理解した人です！<br>
+自分は，Transformerをコードを写経して理解した人です！<br>
 Pythonの理解もまだまだ...研究ではプログラムを改変したりしないと行けいない...<br>
 だからこそ！プログラムを写経しながらPythonも理解しつつ，Transformerもコードレベルで理解してみてはいかが？
 - **copy_code_Transformer_01_Embedder.ipynb**<br>
