@@ -24,3 +24,5 @@ Pythonの理解もまだまだ...研究ではプログラムを改変したり�
   Transformerに組み込まれている他のトークンとの関連度を考慮した特徴抽出を行うMulti-Head Attention機構
 - **copy_code_Transformer_04_FeedFowardNetwork.ipynb**<br>
   各トークンのベクトルごとに非線形変換処理を行う機構
+- **copy_code_Transformer_05_Transformer.ipynb**<br>
+  最終的に01〜04で作成した各機構のクラスを用いてTransformerを構築
