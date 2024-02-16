@@ -22,3 +22,5 @@ Pythonの理解もまだまだ...研究ではプログラムを改変したり�
   各トークンをあらわす埋め込みベクトルに対して位置情報$PE$を付与する機構
 - **copy_code_Transformer_03_Multi_Head_Attention.ipynb**<br>
   Transformerに組み込まれている他のトークンとの関連度を考慮した特徴抽出を行うMulti-Head Attention機構
+- **copy_code_Transformer_04_FeedFowardNetwork.ipynb**<br>
+  各トークンのベクトルごとに非線形変換処理を行う機構
