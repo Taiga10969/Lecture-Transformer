@@ -1,5 +1,5 @@
 # Lecture-Transformer
-MPRG新B4向け春の勉強会用資料<br>
+**MPRG新B4向け春の勉強会用資料**<br>
 <br>
 テーマ：lecture 中級編3(再帰ネットワーク)<br>
 内　容：RNN，Attention seq2seq，**Transformer**<br>
