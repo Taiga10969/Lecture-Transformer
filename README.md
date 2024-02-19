@@ -30,7 +30,7 @@ Pythonの理解もまだまだ...研究ではプログラムを改変したり�
 
 
 ***
-### 本テーマに関連する[MPRGDeepLearningLectureNotebook](https://github.com/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/tree/master)<br>
+### 今回の勉強会のテーマに関連する[MPRGDeepLearningLectureNotebook](https://github.com/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/tree/master)<br>
 **中級3：PyTorchで作る再帰型ネットワーク**
 1.  [Recurrent Neural Networkによる電力予測](13_rnn/01_03_RNN.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/01_03_RNN.ipynb)
 2.  [Encoder-Decoderによる計算機作成](13_rnn/04_Seq2Seq.ipynb) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/13_rnn/04_Seq2Seq.ipynb)
