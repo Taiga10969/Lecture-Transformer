@@ -3,8 +3,6 @@
 <br>
 テーマ：lecture 中級編3(再帰ネットワーク)<br>
 内　容：RNN，Attention seq2seq，**Transformer**<br>
-
-日程調整：[勉強会_日程調整](https://tonton.amaneku.com/list.php?id=20240219061002_qEO9D4)← 早めに回答の程よろしくお願いします
 <br>
 今は大Transformer時代！<br>
 研究でもTransformer系のモデルを使う人が多いことから主にTransformerについて解説します．<br>
